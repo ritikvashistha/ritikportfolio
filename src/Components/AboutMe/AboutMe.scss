@@ -1,0 +1,19 @@
+.aboutMe-container{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.about-heading{
+color: #1eff00;
+}
+.about-para {
+    display: inline-block;
+    background: linear-gradient(to bottom,#050608,#0c0b0c);
+    padding: 2rem 1rem;
+    text-align: center;
+    text-transform: capitalize;
+     font-family: cursive;
+    color: #a1c6eb;
+    
+  }

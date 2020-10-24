@@ -1,0 +1,33 @@
+.featured-head{
+    padding-top: 3rem;
+    margin-left: 5rem;
+    color: rgb(16, 245, 8);
+}
+@media screen and (max-width: 576px) {
+    .featured-head{
+        margin-left: 0;
+        text-align: center;
+        color: rgb(16, 245, 8);
+    }
+    
+  }
+
+  .skill-paper{
+      font-size: 22px;
+      
+  }
+  @media screen and (max-width: 576px) {
+    .skill-paper{
+        font-size: 15px;
+    } 
+    
+  }
+
+  .skill-paper :hover {
+    //margin-top: -5px;
+    background-color:black;
+    border: 3px;
+ color: #09ff00;
+    transition: .3s;
+     //font-size: 28px;
+}
