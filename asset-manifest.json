@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ritikportfolio/static/css/main.b93b1529.chunk.css",
+    "main.js": "/ritikportfolio/static/js/main.3c68de23.chunk.js",
+    "main.js.map": "/ritikportfolio/static/js/main.3c68de23.chunk.js.map",
+    "runtime-main.js": "/ritikportfolio/static/js/runtime-main.377dc971.js",
+    "runtime-main.js.map": "/ritikportfolio/static/js/runtime-main.377dc971.js.map",
+    "static/js/2.ba62c0ac.chunk.js": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js",
+    "static/js/2.ba62c0ac.chunk.js.map": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js.map",
+    "index.html": "/ritikportfolio/index.html",
+    "precache-manifest.10a1d32cc58e11e0de0885a7451a00f5.js": "/ritikportfolio/precache-manifest.10a1d32cc58e11e0de0885a7451a00f5.js",
+    "service-worker.js": "/ritikportfolio/service-worker.js",
+    "static/css/main.b93b1529.chunk.css.map": "/ritikportfolio/static/css/main.b93b1529.chunk.css.map",
+    "static/js/2.ba62c0ac.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js.LICENSE.txt",
+    "static/media/default1.png": "/ritikportfolio/static/media/default1.3702665f.png",
+    "static/media/default2.png": "/ritikportfolio/static/media/default2.3d02e1a8.png",
+    "static/media/default3.png": "/ritikportfolio/static/media/default3.07dfbe8d.png",
+    "static/media/App.css": "/ritikportfolio/static/media/defaultB.7da94822.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.377dc971.js",
+    "static/js/2.ba62c0ac.chunk.js",
+    "static/css/main.b93b1529.chunk.css",
+    "static/js/main.3c68de23.chunk.js"
+  ]
+}
