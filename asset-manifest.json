@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ritikportfolio/static/css/main.334c6ec8.chunk.css",
-    "main.js": "/ritikportfolio/static/js/main.e26accf6.chunk.js",
-    "main.js.map": "/ritikportfolio/static/js/main.e26accf6.chunk.js.map",
+    "main.js": "/ritikportfolio/static/js/main.4cd2f52b.chunk.js",
+    "main.js.map": "/ritikportfolio/static/js/main.4cd2f52b.chunk.js.map",
     "runtime-main.js": "/ritikportfolio/static/js/runtime-main.377dc971.js",
     "runtime-main.js.map": "/ritikportfolio/static/js/runtime-main.377dc971.js.map",
     "static/js/2.ba62c0ac.chunk.js": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js",
     "static/js/2.ba62c0ac.chunk.js.map": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js.map",
     "index.html": "/ritikportfolio/index.html",
-    "precache-manifest.9862fb65e54d30dbd69d93f1a802710e.js": "/ritikportfolio/precache-manifest.9862fb65e54d30dbd69d93f1a802710e.js",
+    "precache-manifest.7411fcd28ad4dea6ccb4a01d053c8b8f.js": "/ritikportfolio/precache-manifest.7411fcd28ad4dea6ccb4a01d053c8b8f.js",
     "service-worker.js": "/ritikportfolio/service-worker.js",
     "static/css/main.334c6ec8.chunk.css.map": "/ritikportfolio/static/css/main.334c6ec8.chunk.css.map",
     "static/js/2.ba62c0ac.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.377dc971.js",
     "static/js/2.ba62c0ac.chunk.js",
     "static/css/main.334c6ec8.chunk.css",
-    "static/js/main.e26accf6.chunk.js"
+    "static/js/main.4cd2f52b.chunk.js"
   ]
 }
