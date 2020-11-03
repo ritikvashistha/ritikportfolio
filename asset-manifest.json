@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ritikportfolio/static/css/main.b93b1529.chunk.css",
-    "main.js": "/ritikportfolio/static/js/main.0cf9380d.chunk.js",
-    "main.js.map": "/ritikportfolio/static/js/main.0cf9380d.chunk.js.map",
+    "main.css": "/ritikportfolio/static/css/main.334c6ec8.chunk.css",
+    "main.js": "/ritikportfolio/static/js/main.e26accf6.chunk.js",
+    "main.js.map": "/ritikportfolio/static/js/main.e26accf6.chunk.js.map",
     "runtime-main.js": "/ritikportfolio/static/js/runtime-main.377dc971.js",
     "runtime-main.js.map": "/ritikportfolio/static/js/runtime-main.377dc971.js.map",
     "static/js/2.ba62c0ac.chunk.js": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js",
     "static/js/2.ba62c0ac.chunk.js.map": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js.map",
     "index.html": "/ritikportfolio/index.html",
-    "precache-manifest.b753c376e1755041c493c81a935ba240.js": "/ritikportfolio/precache-manifest.b753c376e1755041c493c81a935ba240.js",
+    "precache-manifest.9862fb65e54d30dbd69d93f1a802710e.js": "/ritikportfolio/precache-manifest.9862fb65e54d30dbd69d93f1a802710e.js",
     "service-worker.js": "/ritikportfolio/service-worker.js",
-    "static/css/main.b93b1529.chunk.css.map": "/ritikportfolio/static/css/main.b93b1529.chunk.css.map",
+    "static/css/main.334c6ec8.chunk.css.map": "/ritikportfolio/static/css/main.334c6ec8.chunk.css.map",
     "static/js/2.ba62c0ac.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.ba62c0ac.chunk.js.LICENSE.txt",
     "static/media/default1.png": "/ritikportfolio/static/media/default1.3702665f.png",
     "static/media/default2.png": "/ritikportfolio/static/media/default2.3d02e1a8.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.377dc971.js",
     "static/js/2.ba62c0ac.chunk.js",
-    "static/css/main.b93b1529.chunk.css",
-    "static/js/main.0cf9380d.chunk.js"
+    "static/css/main.334c6ec8.chunk.css",
+    "static/js/main.e26accf6.chunk.js"
   ]
 }
