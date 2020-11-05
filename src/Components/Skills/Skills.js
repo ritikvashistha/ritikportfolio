@@ -46,7 +46,7 @@ export default function Skills() {
     const classes = useStyles();
 
     return (
-        <div className={classes.skillcontainer}>
+        <div className={classes.skillcontainer} id="skills">
             <h1 className="featured-head" >Skills</h1>
             <div className={classes.root}>
                 <Grid container spacing={3}>

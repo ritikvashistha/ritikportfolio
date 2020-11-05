@@ -50,11 +50,11 @@ export default function Navbar() {
                         <div className="icon cancel-btn">
                             <ImCross onClick={() => cancel()} />
                         </div>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Skills</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a onClick={() => cancel()} href="#">Home</a></li>
+                        <li><a onClick={() => cancel()} href="#about">About</a></li>
+                        <li><a onClick={() => cancel()} href="#projects">Projects</a></li>
+                        <li><a onClick={() => cancel()} href="#skills">Skills</a></li>
+                        <li><a onClick={() => cancel()} href="#contact">Contact</a></li>
                     </ul>
                     <div className={menuBtn}>
                         <FaBars onClick={() => menu()} />

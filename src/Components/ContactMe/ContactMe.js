@@ -13,7 +13,7 @@ export default function ContactMe() {
                             <div className="text">
                                 Get in Touch</div>
                             <p>
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos harum corporis fuga corrupti. Doloribus quis soluta nesciunt veritatis vitae nobis?</p>
+                                You want to see how I work? If you are looking for a Frontend, a React.js Developer, or just want to get to know me more, contact me and I will be happy to talk to you...  </p>
                             <div className="icons">
                                 <div className="row">
                                     <i className="fas fa-user" />

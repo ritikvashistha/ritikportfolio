@@ -3,10 +3,20 @@ import React from 'react';
 import "./AboutMe.scss"
 export default function AboutMe() {
     return (
-        <div className="aboutMe-container">
+        <div className="aboutMe-container" id="about">
             <div className="about-para">
                 <h1 className="about-heading" >About Me</h1>
-                <p >Madison Blackstone is a director of brand marketing, with experience managing global teams and multi-million-dollar campaigns. Her background in brand strategy, visual design, and account management inform her mindful but competitive approach. Madison is fueled by her passion for understanding the nuances of cross-cultural advertising. She considers herself a ‘forever student,’ eager to both build on her academic foundations in psychology and sociology and stay in tune with the latest digital marketing strategies through continued coursework. Her hunger for knowledge and determination to turn information into action has contributed to her most recent success at Rockwell Group, where she led international, award-winning campaigns for heavy-hitting brands, such as Puma, Gucci, and Rolex. Meanwhile, she vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for her department. Madison believes mindfulness in the workplace is key to success - a tenet she lives out through her interests in yoga, meditation, gardening, and painting. Madison is currently working as a freelance marketing director and is always interested in a challenge. Reach out to madisonblackstone@gmail.com to connect</p>
+                <p >My Name is Ritik Vashistha and was born in Saharanpur. I'm an Undergraduate final Year
+                Student currently undertaking a Bachelor's course in Computer Science and Engineering at
+                DBGI. And I am having interest in frontend development So I am continously Learning and
+                Improving my skills in order to become a better developer. I am really passionate about
+                everything that has to do with technology and design which makes me to enjoy every work .
+                From UI and development to project architecture, design, debuging, testing, planning to
+                training courses I love this sector and for me each project is a new reto that I face with
+                great enthusiasm, involving me to the maximum to give the best of me.
+                And My Objective is to enhance my professional skills, capabilities and knowledge in an
+                organisation which recognize the value of hard work and trust me with responsiblities and
+                    challenges.</p>
             </div>
         </div>
     );
