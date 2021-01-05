@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae94299e5cd3469be6860d7ddf4c8213",
+    "revision": "8e52a6357e1d06bc79b24d77d784d471",
     "url": "/ritikportfolio/index.html"
   },
   {
-    "revision": "dad05db1459a9b3c48ea",
-    "url": "/ritikportfolio/static/css/main.6b942a3b.chunk.css"
+    "revision": "d586f6d4983b24beebea",
+    "url": "/ritikportfolio/static/css/main.04959554.chunk.css"
   },
   {
-    "revision": "3a6faa76a8b0b86daab4",
-    "url": "/ritikportfolio/static/js/2.ed5452eb.chunk.js"
+    "revision": "dd4152e86425cf02c276",
+    "url": "/ritikportfolio/static/js/2.057cff1b.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/ritikportfolio/static/js/2.ed5452eb.chunk.js.LICENSE.txt"
+    "url": "/ritikportfolio/static/js/2.057cff1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dad05db1459a9b3c48ea",
-    "url": "/ritikportfolio/static/js/main.74beeab1.chunk.js"
+    "revision": "d586f6d4983b24beebea",
+    "url": "/ritikportfolio/static/js/main.3819ea1f.chunk.js"
   },
   {
     "revision": "2881c60c6eb19b4e6808",
