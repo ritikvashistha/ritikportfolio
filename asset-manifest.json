@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/ritikportfolio/static/css/main.334c6ec8.chunk.css",
-    "main.js": "/ritikportfolio/static/js/main.ce42c085.chunk.js",
-    "main.js.map": "/ritikportfolio/static/js/main.ce42c085.chunk.js.map",
+    "main.css": "/ritikportfolio/static/css/main.6b942a3b.chunk.css",
+    "main.js": "/ritikportfolio/static/js/main.74beeab1.chunk.js",
+    "main.js.map": "/ritikportfolio/static/js/main.74beeab1.chunk.js.map",
     "runtime-main.js": "/ritikportfolio/static/js/runtime-main.377dc971.js",
     "runtime-main.js.map": "/ritikportfolio/static/js/runtime-main.377dc971.js.map",
-    "static/js/2.7c4a9549.chunk.js": "/ritikportfolio/static/js/2.7c4a9549.chunk.js",
-    "static/js/2.7c4a9549.chunk.js.map": "/ritikportfolio/static/js/2.7c4a9549.chunk.js.map",
+    "static/js/2.ed5452eb.chunk.js": "/ritikportfolio/static/js/2.ed5452eb.chunk.js",
+    "static/js/2.ed5452eb.chunk.js.map": "/ritikportfolio/static/js/2.ed5452eb.chunk.js.map",
     "index.html": "/ritikportfolio/index.html",
-    "precache-manifest.6cf71f1ba97624c44bbaf9f504cd92a0.js": "/ritikportfolio/precache-manifest.6cf71f1ba97624c44bbaf9f504cd92a0.js",
+    "precache-manifest.9ad3cafe125c54ea66609ca9dad70b9a.js": "/ritikportfolio/precache-manifest.9ad3cafe125c54ea66609ca9dad70b9a.js",
     "service-worker.js": "/ritikportfolio/service-worker.js",
-    "static/css/main.334c6ec8.chunk.css.map": "/ritikportfolio/static/css/main.334c6ec8.chunk.css.map",
-    "static/js/2.7c4a9549.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.7c4a9549.chunk.js.LICENSE.txt",
+    "static/css/main.6b942a3b.chunk.css.map": "/ritikportfolio/static/css/main.6b942a3b.chunk.css.map",
+    "static/js/2.ed5452eb.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.ed5452eb.chunk.js.LICENSE.txt",
     "static/media/default1.png": "/ritikportfolio/static/media/default1.3702665f.png",
     "static/media/default2.png": "/ritikportfolio/static/media/default2.3d02e1a8.png",
     "static/media/default3.png": "/ritikportfolio/static/media/default3.07dfbe8d.png",
     "static/media/default4.png": "/ritikportfolio/static/media/default4.341693b6.png",
-    "static/media/App.css": "/ritikportfolio/static/media/defaultB.7da94822.jpg"
+    "static/media/App.css": "/ritikportfolio/static/media/defaultB.7da94822.jpg",
+    "static/media/myimage.jpg": "/ritikportfolio/static/media/myimage.2229d641.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.377dc971.js",
-    "static/js/2.7c4a9549.chunk.js",
-    "static/css/main.334c6ec8.chunk.css",
-    "static/js/main.ce42c085.chunk.js"
+    "static/js/2.ed5452eb.chunk.js",
+    "static/css/main.6b942a3b.chunk.css",
+    "static/js/main.74beeab1.chunk.js"
   ]
 }
