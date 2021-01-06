@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ritikportfolio/static/css/main.294c4950.chunk.css",
-    "main.js": "/ritikportfolio/static/js/main.7ffd833b.chunk.js",
-    "main.js.map": "/ritikportfolio/static/js/main.7ffd833b.chunk.js.map",
+    "main.css": "/ritikportfolio/static/css/main.e4ccf541.chunk.css",
+    "main.js": "/ritikportfolio/static/js/main.74ac1568.chunk.js",
+    "main.js.map": "/ritikportfolio/static/js/main.74ac1568.chunk.js.map",
     "runtime-main.js": "/ritikportfolio/static/js/runtime-main.377dc971.js",
     "runtime-main.js.map": "/ritikportfolio/static/js/runtime-main.377dc971.js.map",
-    "static/js/2.d23e845c.chunk.js": "/ritikportfolio/static/js/2.d23e845c.chunk.js",
-    "static/js/2.d23e845c.chunk.js.map": "/ritikportfolio/static/js/2.d23e845c.chunk.js.map",
+    "static/js/2.528320e4.chunk.js": "/ritikportfolio/static/js/2.528320e4.chunk.js",
+    "static/js/2.528320e4.chunk.js.map": "/ritikportfolio/static/js/2.528320e4.chunk.js.map",
     "index.html": "/ritikportfolio/index.html",
-    "precache-manifest.9da78de747084c15946ae636a383b5f3.js": "/ritikportfolio/precache-manifest.9da78de747084c15946ae636a383b5f3.js",
+    "precache-manifest.c63c06eba3bc8d08e439425a185c7ab6.js": "/ritikportfolio/precache-manifest.c63c06eba3bc8d08e439425a185c7ab6.js",
     "service-worker.js": "/ritikportfolio/service-worker.js",
-    "static/css/main.294c4950.chunk.css.map": "/ritikportfolio/static/css/main.294c4950.chunk.css.map",
-    "static/js/2.d23e845c.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.d23e845c.chunk.js.LICENSE.txt",
+    "static/css/main.e4ccf541.chunk.css.map": "/ritikportfolio/static/css/main.e4ccf541.chunk.css.map",
+    "static/js/2.528320e4.chunk.js.LICENSE.txt": "/ritikportfolio/static/js/2.528320e4.chunk.js.LICENSE.txt",
     "static/media/default1.png": "/ritikportfolio/static/media/default1.3702665f.png",
     "static/media/default2.png": "/ritikportfolio/static/media/default2.3d02e1a8.png",
     "static/media/default3.png": "/ritikportfolio/static/media/default3.07dfbe8d.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.377dc971.js",
-    "static/js/2.d23e845c.chunk.js",
-    "static/css/main.294c4950.chunk.css",
-    "static/js/main.7ffd833b.chunk.js"
+    "static/js/2.528320e4.chunk.js",
+    "static/css/main.e4ccf541.chunk.css",
+    "static/js/main.74ac1568.chunk.js"
   ]
 }
